@@ -1,6 +1,5 @@
 hi 
 how are you 
 I am in master branch
-
 this is in stage branch 
-
+982e8ce (updated in master)
